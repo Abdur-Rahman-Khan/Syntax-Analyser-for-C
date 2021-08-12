@@ -1,5 +1,7 @@
 # Syntax-Analyser-for-C
 
+Task-> Read
+
 Syntax Analysis
 
 
@@ -20,7 +22,7 @@ INPUT->
 		 	./a.out test2.c
 	
 	
-OUTPUT->
+OUTPUT->	 If found error then
 		 It would show "line number" where error is showing, followed by "description" of error
 		 
 		 
